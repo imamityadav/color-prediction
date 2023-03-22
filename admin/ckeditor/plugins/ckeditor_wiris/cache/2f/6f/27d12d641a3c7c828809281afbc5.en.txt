@@ -1,0 +1,1 @@
+{"result":{"text":"$ $ backslash s q r t left parenthesis 2 right parenthesis $ $"},"status":"ok"}

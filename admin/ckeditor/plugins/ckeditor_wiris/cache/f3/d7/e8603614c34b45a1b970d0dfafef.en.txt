@@ -1,0 +1,1 @@
+{"result":{"text":"circle enclose circle enclose circle enclose circle enclose circle enclose straight X plus straight Y end enclose end enclose end enclose end enclose end enclose"},"status":"ok"}

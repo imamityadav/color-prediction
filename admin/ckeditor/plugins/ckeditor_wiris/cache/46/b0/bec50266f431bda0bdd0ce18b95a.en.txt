@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 28px style rightwards arrow from bar leftwards arrow from bar left right double arrow leftwards double arrow rightwards double arrow end style"},"status":"ok"}

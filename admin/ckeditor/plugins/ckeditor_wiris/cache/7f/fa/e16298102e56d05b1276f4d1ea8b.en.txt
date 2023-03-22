@@ -1,0 +1,1 @@
+{"result":{"text":"ϖποξ"},"status":"ok"}
